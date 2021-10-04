@@ -44,6 +44,8 @@ namespace DependencyInversionPrinciple
             notification.Send();
         }
     }
+    
+    // Notification clasi diger claslardan(kicik claslardan) asli deyil. Notification deyisse veya basqasi elave olunsa problem yaranmayacaq.
 
     public class Notification
     {
