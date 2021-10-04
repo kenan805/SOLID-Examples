@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\SOLID_Examples\LiskovSubstitutionPrinciple\bin\Debug\net5.0\LiskovSubstitutionPrinciple.exe
+C:\Users\user\source\repos\SOLID_Examples\LiskovSubstitutionPrinciple\bin\Debug\net5.0\LiskovSubstitutionPrinciple.deps.json
+C:\Users\user\source\repos\SOLID_Examples\LiskovSubstitutionPrinciple\bin\Debug\net5.0\LiskovSubstitutionPrinciple.runtimeconfig.json
+C:\Users\user\source\repos\SOLID_Examples\LiskovSubstitutionPrinciple\bin\Debug\net5.0\LiskovSubstitutionPrinciple.runtimeconfig.dev.json
+C:\Users\user\source\repos\SOLID_Examples\LiskovSubstitutionPrinciple\bin\Debug\net5.0\LiskovSubstitutionPrinciple.dll
+C:\Users\user\source\repos\SOLID_Examples\LiskovSubstitutionPrinciple\bin\Debug\net5.0\ref\LiskovSubstitutionPrinciple.dll
+C:\Users\user\source\repos\SOLID_Examples\LiskovSubstitutionPrinciple\bin\Debug\net5.0\LiskovSubstitutionPrinciple.pdb
+C:\Users\user\source\repos\SOLID_Examples\LiskovSubstitutionPrinciple\obj\Debug\net5.0\LiskovSubstitutionPrinciple.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\SOLID_Examples\LiskovSubstitutionPrinciple\obj\Debug\net5.0\LiskovSubstitutionPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\SOLID_Examples\LiskovSubstitutionPrinciple\obj\Debug\net5.0\LiskovSubstitutionPrinciple.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\SOLID_Examples\LiskovSubstitutionPrinciple\obj\Debug\net5.0\LiskovSubstitutionPrinciple.AssemblyInfo.cs
+C:\Users\user\source\repos\SOLID_Examples\LiskovSubstitutionPrinciple\obj\Debug\net5.0\LiskovSubstitutionPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\SOLID_Examples\LiskovSubstitutionPrinciple\obj\Debug\net5.0\LiskovSubstitutionPrinciple.dll
+C:\Users\user\source\repos\SOLID_Examples\LiskovSubstitutionPrinciple\obj\Debug\net5.0\ref\LiskovSubstitutionPrinciple.dll
+C:\Users\user\source\repos\SOLID_Examples\LiskovSubstitutionPrinciple\obj\Debug\net5.0\LiskovSubstitutionPrinciple.pdb
+C:\Users\user\source\repos\SOLID_Examples\LiskovSubstitutionPrinciple\obj\Debug\net5.0\LiskovSubstitutionPrinciple.genruntimeconfig.cache

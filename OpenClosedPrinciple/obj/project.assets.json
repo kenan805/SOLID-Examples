@@ -1,0 +1,90 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "SingleResponsibilityPrinciple/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/SingleResponsibilityPrinciple.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SingleResponsibilityPrinciple.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SingleResponsibilityPrinciple/1.0.0": {
+      "type": "project",
+      "path": "../SOLID_Examples/SingleResponsibilityPrinciple.csproj",
+      "msbuildProject": "../SOLID_Examples/SingleResponsibilityPrinciple.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "SingleResponsibilityPrinciple >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\user\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\user\\source\\repos\\SOLID_Examples\\OpenClosedPrinciple\\OpenClosedPrinciple.csproj",
+      "projectName": "OpenClosedPrinciple",
+      "projectPath": "C:\\Users\\user\\source\\repos\\SOLID_Examples\\OpenClosedPrinciple\\OpenClosedPrinciple.csproj",
+      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\user\\source\\repos\\SOLID_Examples\\OpenClosedPrinciple\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "C:\\Users\\user\\source\\repos\\SOLID_Examples\\SOLID_Examples\\SingleResponsibilityPrinciple.csproj": {
+              "projectPath": "C:\\Users\\user\\source\\repos\\SOLID_Examples\\SOLID_Examples\\SingleResponsibilityPrinciple.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

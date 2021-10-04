@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\SOLID_Examples\DependencyInversionPrinciple\bin\Debug\net5.0\DependencyInversionPrinciple.exe
+C:\Users\user\source\repos\SOLID_Examples\DependencyInversionPrinciple\bin\Debug\net5.0\DependencyInversionPrinciple.deps.json
+C:\Users\user\source\repos\SOLID_Examples\DependencyInversionPrinciple\bin\Debug\net5.0\DependencyInversionPrinciple.runtimeconfig.json
+C:\Users\user\source\repos\SOLID_Examples\DependencyInversionPrinciple\bin\Debug\net5.0\DependencyInversionPrinciple.runtimeconfig.dev.json
+C:\Users\user\source\repos\SOLID_Examples\DependencyInversionPrinciple\bin\Debug\net5.0\DependencyInversionPrinciple.dll
+C:\Users\user\source\repos\SOLID_Examples\DependencyInversionPrinciple\bin\Debug\net5.0\ref\DependencyInversionPrinciple.dll
+C:\Users\user\source\repos\SOLID_Examples\DependencyInversionPrinciple\bin\Debug\net5.0\DependencyInversionPrinciple.pdb
+C:\Users\user\source\repos\SOLID_Examples\DependencyInversionPrinciple\obj\Debug\net5.0\DependencyInversionPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\SOLID_Examples\DependencyInversionPrinciple\obj\Debug\net5.0\DependencyInversionPrinciple.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\SOLID_Examples\DependencyInversionPrinciple\obj\Debug\net5.0\DependencyInversionPrinciple.AssemblyInfo.cs
+C:\Users\user\source\repos\SOLID_Examples\DependencyInversionPrinciple\obj\Debug\net5.0\DependencyInversionPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\SOLID_Examples\DependencyInversionPrinciple\obj\Debug\net5.0\DependencyInversionPrinciple.dll
+C:\Users\user\source\repos\SOLID_Examples\DependencyInversionPrinciple\obj\Debug\net5.0\ref\DependencyInversionPrinciple.dll
+C:\Users\user\source\repos\SOLID_Examples\DependencyInversionPrinciple\obj\Debug\net5.0\DependencyInversionPrinciple.pdb
+C:\Users\user\source\repos\SOLID_Examples\DependencyInversionPrinciple\obj\Debug\net5.0\DependencyInversionPrinciple.genruntimeconfig.cache

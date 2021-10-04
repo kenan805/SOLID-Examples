@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "OpenClosedPrinciple/1.0.0": {
+        "dependencies": {
+          "SingleResponsibilityPrinciple": "1.0.0"
+        },
+        "runtime": {
+          "OpenClosedPrinciple.dll": {}
+        }
+      },
+      "SingleResponsibilityPrinciple/1.0.0": {
+        "runtime": {
+          "SingleResponsibilityPrinciple.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OpenClosedPrinciple/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SingleResponsibilityPrinciple/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

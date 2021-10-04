@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\SOLID_Examples\SOLID_Examples\bin\Debug\net5.0\SingleResponsibilityPrinciple.exe
+C:\Users\user\source\repos\SOLID_Examples\SOLID_Examples\bin\Debug\net5.0\SingleResponsibilityPrinciple.deps.json
+C:\Users\user\source\repos\SOLID_Examples\SOLID_Examples\bin\Debug\net5.0\SingleResponsibilityPrinciple.runtimeconfig.json
+C:\Users\user\source\repos\SOLID_Examples\SOLID_Examples\bin\Debug\net5.0\SingleResponsibilityPrinciple.runtimeconfig.dev.json
+C:\Users\user\source\repos\SOLID_Examples\SOLID_Examples\bin\Debug\net5.0\SingleResponsibilityPrinciple.dll
+C:\Users\user\source\repos\SOLID_Examples\SOLID_Examples\bin\Debug\net5.0\ref\SingleResponsibilityPrinciple.dll
+C:\Users\user\source\repos\SOLID_Examples\SOLID_Examples\bin\Debug\net5.0\SingleResponsibilityPrinciple.pdb
+C:\Users\user\source\repos\SOLID_Examples\SOLID_Examples\obj\Debug\net5.0\SingleResponsibilityPrinciple.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\SOLID_Examples\SOLID_Examples\obj\Debug\net5.0\SingleResponsibilityPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\SOLID_Examples\SOLID_Examples\obj\Debug\net5.0\SingleResponsibilityPrinciple.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\SOLID_Examples\SOLID_Examples\obj\Debug\net5.0\SingleResponsibilityPrinciple.AssemblyInfo.cs
+C:\Users\user\source\repos\SOLID_Examples\SOLID_Examples\obj\Debug\net5.0\SingleResponsibilityPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\SOLID_Examples\SOLID_Examples\obj\Debug\net5.0\SingleResponsibilityPrinciple.dll
+C:\Users\user\source\repos\SOLID_Examples\SOLID_Examples\obj\Debug\net5.0\ref\SingleResponsibilityPrinciple.dll
+C:\Users\user\source\repos\SOLID_Examples\SOLID_Examples\obj\Debug\net5.0\SingleResponsibilityPrinciple.pdb
+C:\Users\user\source\repos\SOLID_Examples\SOLID_Examples\obj\Debug\net5.0\SingleResponsibilityPrinciple.genruntimeconfig.cache
